@@ -48,8 +48,9 @@ A Java-based graphical subnet calculator that helps network administrators and s
    ├── IPSubnetCalculatorGUI.java
    ├── IPSubnetCalculatorLogic.java
    ├── Jedar.ttf
-   └── images/
-       └── network_BG.jpg
+   ├── images/
+   |   └── network_BG.jpg
+   └── README.md
    ```
 
 ## Usage
@@ -96,14 +97,6 @@ A Java-based graphical subnet calculator that helps network administrators and s
 - Calculates network range based on prefix length
 - Provides detailed subnet information
 
-## Project Structure
-
-- `IPSubnetCalculatorGUI.java`: Main GUI implementation
-- `IPSubnetCalculatorLogic.java`: Core calculation logic
-- `Jedar.ttf`: Custom font file
-- `images/network_BG.jpg`: Background image
-- `README.md`: Project documentation
-
 ## Contributing
 
 Feel free to fork this project and submit pull requests for any improvements you make. Some areas that could be enhanced:
@@ -113,10 +106,6 @@ Feel free to fork this project and submit pull requests for any improvements you
 - Implementing save/load functionality for frequent calculations
 - Adding export features for calculation results
 
-## License
-
-This project is available under the MIT License. Feel free to use, modify, and distribute it as needed.
-
 ## Author
 
-Created by Ashu
+Created by Tej Prakash Carpenter, Sahil Prasad, Vivek Singh, Parth Dangaya
